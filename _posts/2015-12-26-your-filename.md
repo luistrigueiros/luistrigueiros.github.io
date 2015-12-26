@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: "This is a test post"
+published: true
 ---
 
 ## A New Post
