@@ -1,0 +1,434 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JBake</title>
+    <link>http://jbake.org</link>
+    <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description>JBake Bootstrap Template</description>
+    <language>en-gb</language>
+    <pubDate>Wed, 23 Mar 2016 23:52:27 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Mar 2016 23:52:27 +0000</lastBuildDate>
+
+    <item>
+      <title>About</title>
+      <link>http://jbake.org/about.html</link>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">about.html</guid>
+      <description>&amp;lt;div id=&amp;quot;preamble&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;sectionbody&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;I am passionate about using technical expertise, but more importantly I am passionate about help organizations to succeed and operate at high level of performance by solving and optimize business needs.
+Some of my specialties are Spring Framework, JBoss Drools, JBoss JBpm workflow engine, Apache Camel, Java, JQuery, AngularJS, SQL.
+Currently interested in reactive non blocking applications development, NoSQL data stores, and cloud namely Docker and Openshift.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect1&amp;quot;&amp;gt;
+&amp;lt;h2 id=&amp;quot;_company_cartrawler_integration_specialist&amp;quot;&amp;gt;Company CarTrawler / Integration Specialist&amp;lt;/h2&amp;gt;
+&amp;lt;div class=&amp;quot;sectionbody&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;From May 2015 to Present&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_projects&amp;quot;&amp;gt;Projects&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;otaserver&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;otarobot&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_description&amp;quot;&amp;gt;Description&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Currently support to core business software components, develop and extend new features following established guidelines.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;I interface with suppliers and partners all over the globe on a technical level, and support our system users.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;I solve issues in production and implementing new business features.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;I identified and implemented practical solutions to old problems and taken ownership, namely of:&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Tracking network IO problems in the supply chain&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Managing and pruning locations data.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Automate the reporting of system wide configuration
+*I am a team player always ready to help everyone, helping model a high performance award-winning team in a rapidly growing organization.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_technologies&amp;quot;&amp;gt;Technologies&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Java/Tomcat, Ant &amp;amp;amp; Gradle, Git &amp;amp;amp; SVN, SOAP, Open Travel Alliance Message Exchange Protocol(OTA),MS-SQL&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect1&amp;quot;&amp;gt;
+&amp;lt;h2 id=&amp;quot;_company_123_ie_senior_java_developer&amp;quot;&amp;gt;Company 123.ie / Senior Java Developer&amp;lt;/h2&amp;gt;
+&amp;lt;div class=&amp;quot;sectionbody&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;From May 2014 to May 2015.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Part of high performance team in a leading award-winning 24x7x365 online business, doing full stack development frontend, backend services layer, and database.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_projects_2&amp;quot;&amp;gt;Projects&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;WebRebrand&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Peril Based Quote Engine&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Devops/Operational Support&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_description_2&amp;quot;&amp;gt;Description&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Devops, support troubleshooting productions issues, with 1-2 days SLA&amp;amp;#8217;s.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Implemented the new web site re-brand, with responsive single page apps, cross-browser compatibility support, end user analytics, and live chat.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Implemented quick prototypes and prove of concepts using Groovy.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Evolved core business components with sizable code base, integration of new 3rd party service providers into the business fabric.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Worked with Agile/Scrum, continuous delivery, test automation using behavior driven development.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Present ideas and proposed solutions to business needs, created prototype to index quote metadata using ElasticSearch.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_technologies_2&amp;quot;&amp;gt;Technologies&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;JBoss/JEE, CFX, Drools, Spring, Groovy, Jenkins, AngularJS, SVN, SoapUI, Jira, Linux&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect1&amp;quot;&amp;gt;
+&amp;lt;h2 id=&amp;quot;_company_paddy_power_senior_software_engineer&amp;quot;&amp;gt;Company PADDY POWER / Senior Software Engineer&amp;lt;/h2&amp;gt;
+&amp;lt;div class=&amp;quot;sectionbody&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;From October 2013 to April 2014.
+Part of leading Irish bookmaker, practitioner of the best agile software development practices and continues deployment.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_projects_3&amp;quot;&amp;gt;Projects&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;SingleWallet&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;FraudDasboard&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_description_3&amp;quot;&amp;gt;Description&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Develop next generation payment methods and web services, and strategic business solutions.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Experience securing financial transactions using cryptography; RSA asymmetric-keys, Triple DES symmetric-key, integration with OEM’s, and exposure to security awareness in business applications.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Developed authentication and authorization of corporate users, using “Spring Security” backed by Microsoft´s Active Directory LDAP protocol.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Usage of distributed version control system Git enhanced by GitLabs and Atlassian Stash.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Experience working with continuous delivery backed by Jenkins and the pipeline plugin, having environments provisioned on the fly in Cloud Foundry as part of the build process.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;On the process front learn to value Agile and “Kanban” with Specification by example, and collaborative team input as means to deliver end product quality and end user satisfaction.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Experience applying Behavior Drive Development namely using “Thucydides”.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_technologies_3&amp;quot;&amp;gt;Technologies&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Java/Tomcat Spring, Spring Web Services, Spring MVC, Spring Security, Java Cryptography Architecture, Jenkins, Git, LDAP Active Directory, SoapUI, Thucydides/Jbehave, Splunk&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect1&amp;quot;&amp;gt;
+&amp;lt;h2 id=&amp;quot;_company_dun_bradstreet_java_developer&amp;quot;&amp;gt;Company Dun &amp;amp;amp; Bradstreet  / Java Developer&amp;lt;/h2&amp;gt;
+&amp;lt;div class=&amp;quot;sectionbody&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;From Oct 2011 to Oct 203.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_projects_4&amp;quot;&amp;gt;Projects&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;US Bankruptcy&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;DnbDataHub&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;DNBi&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;MyDnb&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;DnbiPro&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_description_4&amp;quot;&amp;gt;Description&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Analysis and reengineering of US Bankruptcy business process.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Developed quick Product POC&amp;amp;#8217;s, using AngularJS, Gradle, Spring Security, and Apache Camel.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Working with international teams: India, US, Ireland&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Provided ongoing support bug fixing for company products.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Developed test automation framework, using WebDriver, Spring, and PageObjects Pattern&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Setup of developers environment, Linux system operation, Build Automation using Gradle&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Supporting roll-out new software components into company products, Actuate BIRT iServer&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Presenting tech talk to pears, fostering new technologies into the group; Camel, Gradle . &amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Training: Advance presentation skills, Actuate BIRT reports development&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Experience using Mercurial version control system.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Provided ongoing support maintenance for company flagship product DNBi, &amp;lt;a href=&amp;quot;https://sso.dnbi.com/cas/login&amp;quot; class=&amp;quot;bare&amp;quot;&amp;gt;https://sso.dnbi.com/cas/login&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_technologies_4&amp;quot;&amp;gt;Technologies&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Java/JBoss/Tomcat/Jetty, Spring, Spring MVC,Apache Camel, Jenkins, Mercurial, SVN, Maven, Gradle, BIRT, Selenium,  Webdriver, Cucumber BDD, PhantomJS,AngularJS, JQuery, HMTL, CSS&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect1&amp;quot;&amp;gt;
+&amp;lt;h2 id=&amp;quot;_accenture_edgeinnovation_senior_java_consultant&amp;quot;&amp;gt;Accenture &amp;amp;amp; EdgeInnovation / Senior Java Consultant&amp;lt;/h2&amp;gt;
+&amp;lt;div class=&amp;quot;sectionbody&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;From Aug 2010 to Oct 2011.
+Senior Consultant with Accenture at Zon, leading Portuguese telecom provider with 3 million customer base, and hundreds of products for sale in product catalog.
+UFE is a key project to both Accenture and Zon, with many innovations, targeted to become the gateway to all IT systems, and provide for customer self-care.
+As web frontend it is been used by call center, customer stores and technical support, it is expected to have 2k users.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_projects_5&amp;quot;&amp;gt;Projects&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Unified Front End (UFE)&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_description_5&amp;quot;&amp;gt;Description&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Setup the project base framework and integrated core software components, and staff training.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Developed business rules server for customer portfolio validation.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Developed ETL to convert from Siebel business rules to Drools (parser &amp;amp;amp; code generator).&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Developed Batch processing feature for execution of scheduled tasks.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Developed Test regression framework for business rules validation.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Developed Templated document printing framework.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_technologies_5&amp;quot;&amp;gt;Technologies&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Jboss Drools, Jboss Jbpm,  Apache Camel, Spring Framework, Spring Batch Processing, Spring Security, Maven,  SpringSource STS, SVN, JSF/Icefaces&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect1&amp;quot;&amp;gt;
+&amp;lt;h2 id=&amp;quot;_company_xpto_position_y&amp;quot;&amp;gt;Company XPTO / Position Y&amp;lt;/h2&amp;gt;
+&amp;lt;div class=&amp;quot;sectionbody&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;From May 2014 to May 2015.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_projects_6&amp;quot;&amp;gt;Projects&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;P1&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;P1&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_description_6&amp;quot;&amp;gt;Description&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Did 1&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Did 2&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Did 3&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_technologies_6&amp;quot;&amp;gt;Technologies&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;X, Y, Z&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;</description>	  
+    </item>
+
+    <item>
+      <title>Fourth Post</title>
+      <link>http://jbake.org/blog/2013/fourth-post.html</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0100</pubDate>
+      <guid isPermaLink="false">blog/2013/fourth-post.html</guid>
+      <description>&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;http://example.org&amp;quot; class=&amp;quot;bare&amp;quot;&amp;gt;http://example.org&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;http://example.org&amp;quot;&amp;gt;Example.org&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Nam id nisl quam. Donec a lorem sit amet libero pretium vulputate vel ut purus. Suspendisse leo arcu,
+mattis et imperdiet luctus, pulvinar vitae mi. Quisque fermentum sollicitudin feugiat. Mauris nec leo
+ligula. Vestibulum tristique odio ut risus ultricies a hendrerit quam iaculis. Duis tempor elit sit amet
+ligula vehicula et iaculis sem placerat. Fusce dictum, metus at volutpat lacinia, elit massa auctor risus,
+id auctor arcu enim eu augue. Donec ultrices turpis in mi imperdiet ac venenatis sapien sodales. In
+consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere
+libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Zzzzz&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;</description>	  
+    </item>
+
+    <item>
+      <title>Third Post</title>
+      <link>http://jbake.org/blog/2013/third-post.html</link>
+      <pubDate>Thu, 26 Sep 2013 00:00:00 +0100</pubDate>
+      <guid isPermaLink="false">blog/2013/third-post.html</guid>
+      <description>&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;http://example.org&amp;quot; class=&amp;quot;bare&amp;quot;&amp;gt;http://example.org&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;http://example.org&amp;quot;&amp;gt;Example.org&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Nam id nisl quam. Donec a lorem sit amet libero pretium vulputate vel ut purus. Suspendisse leo arcu,
+mattis et imperdiet luctus, pulvinar vitae mi. Quisque fermentum sollicitudin feugiat. Mauris nec leo
+ligula. Vestibulum tristique odio ut risus ultricies a hendrerit quam iaculis. Duis tempor elit sit amet
+ligula vehicula et iaculis sem placerat. Fusce dictum, metus at volutpat lacinia, elit massa auctor risus,
+id auctor arcu enim eu augue. Donec ultrices turpis in mi imperdiet ac venenatis sapien sodales. In
+consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere
+libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;</description>	  
+    </item>
+
+  </channel> 
+</rss>
