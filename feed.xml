@@ -5,8 +5,8 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Wed, 23 Mar 2016 23:52:27 +0000</pubDate>
-    <lastBuildDate>Wed, 23 Mar 2016 23:52:27 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Mar 2016 00:14:35 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Mar 2016 00:14:35 +0000</lastBuildDate>
 
     <item>
       <title>About</title>
@@ -16,9 +16,13 @@
       <description>&amp;lt;div id=&amp;quot;preamble&amp;quot;&amp;gt;
 &amp;lt;div class=&amp;quot;sectionbody&amp;quot;&amp;gt;
 &amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
-&amp;lt;p&amp;gt;I am passionate about using technical expertise, but more importantly I am passionate about help organizations to succeed and operate at high level of performance by solving and optimize business needs.
-Some of my specialties are Spring Framework, JBoss Drools, JBoss JBpm workflow engine, Apache Camel, Java, JQuery, AngularJS, SQL.
-Currently interested in reactive non blocking applications development, NoSQL data stores, and cloud namely Docker and Openshift.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;I am passionate about using technical expertise, but more importantly I am passionate about help organizations to succeed and operate at high level of performance by solving and optimize business needs.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Some of my specialties include Spring Framework, JBoss Drools, JBoss JBpm workflow engine, Apache Camel, Java, JQuery, AngularJS, SQL.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Currently interested in reactive non blocking applications development, NoSQL data stores, and cloud namely Docker and Openshift.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;
 &amp;lt;/div&amp;gt;
 &amp;lt;/div&amp;gt;
@@ -46,6 +50,9 @@ Currently interested in reactive non blocking applications development, NoSQL da
 &amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
 &amp;lt;ul&amp;gt;
 &amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;I am a team player always ready to help everyone, helping to form a high performance award-winning team in a rapidly growing organization.&amp;lt;/p&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
 &amp;lt;p&amp;gt;Currently support to core business software components, develop and extend new features following established guidelines.&amp;lt;/p&amp;gt;
 &amp;lt;/li&amp;gt;
 &amp;lt;li&amp;gt;
@@ -65,8 +72,7 @@ Currently interested in reactive non blocking applications development, NoSQL da
 &amp;lt;p&amp;gt;Managing and pruning locations data.&amp;lt;/p&amp;gt;
 &amp;lt;/li&amp;gt;
 &amp;lt;li&amp;gt;
-&amp;lt;p&amp;gt;Automate the reporting of system wide configuration
-*I am a team player always ready to help everyone, helping model a high performance award-winning team in a rapidly growing organization.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Automate the reporting of system wide configuration&amp;lt;/p&amp;gt;
 &amp;lt;/li&amp;gt;
 &amp;lt;/ul&amp;gt;
 &amp;lt;/div&amp;gt;
@@ -320,49 +326,6 @@ As web frontend it is been used by call center, customer stores and technical su
 &amp;lt;h3 id=&amp;quot;_technologies_5&amp;quot;&amp;gt;Technologies&amp;lt;/h3&amp;gt;
 &amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
 &amp;lt;p&amp;gt;Jboss Drools, Jboss Jbpm,  Apache Camel, Spring Framework, Spring Batch Processing, Spring Security, Maven,  SpringSource STS, SVN, JSF/Icefaces&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;div class=&amp;quot;sect1&amp;quot;&amp;gt;
-&amp;lt;h2 id=&amp;quot;_company_xpto_position_y&amp;quot;&amp;gt;Company XPTO / Position Y&amp;lt;/h2&amp;gt;
-&amp;lt;div class=&amp;quot;sectionbody&amp;quot;&amp;gt;
-&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
-&amp;lt;p&amp;gt;From May 2014 to May 2015.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
-&amp;lt;h3 id=&amp;quot;_projects_6&amp;quot;&amp;gt;Projects&amp;lt;/h3&amp;gt;
-&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;
-&amp;lt;p&amp;gt;P1&amp;lt;/p&amp;gt;
-&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;
-&amp;lt;p&amp;gt;P1&amp;lt;/p&amp;gt;
-&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
-&amp;lt;h3 id=&amp;quot;_description_6&amp;quot;&amp;gt;Description&amp;lt;/h3&amp;gt;
-&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;
-&amp;lt;p&amp;gt;Did 1&amp;lt;/p&amp;gt;
-&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;
-&amp;lt;p&amp;gt;Did 2&amp;lt;/p&amp;gt;
-&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;
-&amp;lt;p&amp;gt;Did 3&amp;lt;/p&amp;gt;
-&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
-&amp;lt;h3 id=&amp;quot;_technologies_6&amp;quot;&amp;gt;Technologies&amp;lt;/h3&amp;gt;
-&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
-&amp;lt;p&amp;gt;X, Y, Z&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;
 &amp;lt;/div&amp;gt;
 &amp;lt;/div&amp;gt;
