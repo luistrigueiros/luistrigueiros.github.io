@@ -5,28 +5,15 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Thu, 24 Mar 2016 21:39:15 +0000</pubDate>
-    <lastBuildDate>Thu, 24 Mar 2016 21:39:15 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Mar 2016 22:41:02 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Mar 2016 22:41:02 +0000</lastBuildDate>
 
     <item>
-      <title>About</title>
-      <link>http://jbake.org/about.html</link>
+      <title>Curriculum Vitae</title>
+      <link>http://jbake.org/cv.html</link>
       <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">about.html</guid>
-      <description>&amp;lt;div id=&amp;quot;preamble&amp;quot;&amp;gt;
-&amp;lt;div class=&amp;quot;sectionbody&amp;quot;&amp;gt;
-&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
-&amp;lt;p&amp;gt;I am passionate about using technical expertise, but more importantly I am passionate about help organizations to succeed and operate at high level of performance by solving and optimize business needs.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
-&amp;lt;p&amp;gt;Some of my specialties include Spring Framework, JBoss Drools, JBoss JBpm workflow engine, Apache Camel, Java, JQuery, AngularJS, SQL.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
-&amp;lt;p&amp;gt;Currently interested in reactive non blocking applications development, NoSQL data stores, and cloud namely Docker and Openshift.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;div class=&amp;quot;sect1&amp;quot;&amp;gt;
+      <guid isPermaLink="false">cv.html</guid>
+      <description>&amp;lt;div class=&amp;quot;sect1&amp;quot;&amp;gt;
 &amp;lt;h2 id=&amp;quot;_company_cartrawler_integration_specialist&amp;quot;&amp;gt;Company CarTrawler / Integration Specialist&amp;lt;/h2&amp;gt;
 &amp;lt;div class=&amp;quot;sectionbody&amp;quot;&amp;gt;
 &amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
@@ -329,6 +316,25 @@ As web frontend it is been used by call center, customer stores and technical su
 &amp;lt;/div&amp;gt;
 &amp;lt;/div&amp;gt;
 &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;</description>	  
+    </item>
+
+    <item>
+      <title>About</title>
+      <link>http://jbake.org/about.html</link>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">about.html</guid>
+      <description>&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;I am passionate about using technical expertise, but more importantly I am passionate about help organizations to succeed and operate at high level of performance by solving and optimize business needs.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Some of my specialties include Spring Framework, JBoss Drools, JBoss JBpm workflow engine, Apache Camel, Java, JQuery, AngularJS, SQL.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Currently interested in reactive non blocking applications development, NoSQL data stores, and cloud namely Docker and Openshift.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;cv.html&amp;quot;&amp;gt;Curriculum Vitae&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;</description>	  
     </item>
 
