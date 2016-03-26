@@ -5,67 +5,108 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 26 Mar 2016 22:17:22 +0000</pubDate>
-    <lastBuildDate>Sat, 26 Mar 2016 22:17:22 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Mar 2016 22:56:15 +0000</pubDate>
+    <lastBuildDate>Sat, 26 Mar 2016 22:56:15 +0000</lastBuildDate>
 
     <item>
-      <title>Fourth Post</title>
-      <link>http://jbake.org/blog/2013/fourth-post.html</link>
-      <pubDate>Thu, 17 Oct 2013 00:00:00 +0100</pubDate>
-      <guid isPermaLink="false">blog/2013/fourth-post.html</guid>
-      <description>&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
-&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.&amp;lt;/p&amp;gt;
+      <title>Poorman&#39;s solution to quick prototyping and code reloading</title>
+      <link>http://jbake.org/blog/2015/10/poorman-quick-prototype-and-reloading.html</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0100</pubDate>
+      <guid isPermaLink="false">blog/2015/10/poorman-quick-prototype-and-reloading.html</guid>
+      <description>&amp;lt;div class=&amp;quot;sect1&amp;quot;&amp;gt;
+&amp;lt;h2 id=&amp;quot;_the_problem&amp;quot;&amp;gt;The problem&amp;lt;/h2&amp;gt;
+&amp;lt;div class=&amp;quot;sectionbody&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Sometimes it can be very handy to be able to quickly prototype code and try a quick implementation of an idea or fix without having to go through the whole cycle of build, deploy and restart the app, what typically happens on any app of significant size is that build and deploy are OK, but then the restart is lengthy since it needs to load the initial state into memory, when this cycle is lengthy, it can be a productivity killer and demotivate.
+JRebel is a very good product and makes this possible, like a breeze, but when you can&amp;amp;#8217;t afford the license fee what do you do ? Well the following is an idea, that could be enough to get you going.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;
-&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;http://example.org&amp;quot; class=&amp;quot;bare&amp;quot;&amp;gt;http://example.org&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;http://example.org&amp;quot;&amp;gt;Example.org&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect1&amp;quot;&amp;gt;
+&amp;lt;h2 id=&amp;quot;_groovy_to_the_rescue&amp;quot;&amp;gt;Groovy to the rescue !&amp;lt;/h2&amp;gt;
+&amp;lt;div class=&amp;quot;sectionbody&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Use groovy, integrate groovy for the parts of the code you what to quickly prototype or change as groovy is a super set of java it will allow to have something at the end that will be easily convertible into java if your can&amp;amp;#8217;t deploy groovy code in the end result.
+Integrating groovy is as easy as 3 steps:&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;
 &amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
-&amp;lt;p&amp;gt;Nam id nisl quam. Donec a lorem sit amet libero pretium vulputate vel ut purus. Suspendisse leo arcu,
-mattis et imperdiet luctus, pulvinar vitae mi. Quisque fermentum sollicitudin feugiat. Mauris nec leo
-ligula. Vestibulum tristique odio ut risus ultricies a hendrerit quam iaculis. Duis tempor elit sit amet
-ligula vehicula et iaculis sem placerat. Fusce dictum, metus at volutpat lacinia, elit massa auctor risus,
-id auctor arcu enim eu augue. Donec ultrices turpis in mi imperdiet ac venenatis sapien sodales. In
-consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere
-libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Make the groovy embeddeable jar available
+Use the GroovyScriptEngine to call the groovy code you whant to run
+Read back the results from the call to the groovy code
+One of the great advantages of Groovy is the excellent integration with Java and all the popular IDE&amp;amp;#8217;s that make even possible to have debug, code completion and even refractory while you benefit of dynamic scripting.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_step_1&amp;quot;&amp;gt;Step 1&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;To materialize a bit more the previous three steps if you are building your code with Gradle, making the step one will be as simple as adding the groovy-all jar in the dependencies&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;imageblock&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;content&amp;quot;&amp;gt;
+&amp;lt;img src=&amp;quot;http://3.bp.blogspot.com/-Vei7gy5HSu4/Vi6HK0vbCzI/AAAAAAAAOvE/Klk9DxHiGXM/s320/screenshot.77.jpg&amp;quot; alt=&amp;quot;Step 1&amp;quot;&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_step_2_3&amp;quot;&amp;gt;Step 2 &amp;amp;amp; 3&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Make the call to the to the groovy code using the GroovyScriptEngine, this is a regular java class that you create an instance and tell it where is the groovy source code to be executed:&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;imageblock&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;content&amp;quot;&amp;gt;
+&amp;lt;img src=&amp;quot;http://4.bp.blogspot.com/-TEOwy_yvBX0/Vi6JhmkG1XI/AAAAAAAAOvQ/_HgEdQexyMk/s320/screenshot.78.jpg&amp;quot; alt=&amp;quot;Step 2 &amp;amp;amp; 3&amp;quot;&amp;gt;
+&amp;lt;/div&amp;gt;
 &amp;lt;/div&amp;gt;
 &amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
-&amp;lt;p&amp;gt;Zzzzz&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;</description>	  
-    </item>
-
-    <item>
-      <title>Third Post</title>
-      <link>http://jbake.org/blog/2013/third-post.html</link>
-      <pubDate>Thu, 26 Sep 2013 00:00:00 +0100</pubDate>
-      <guid isPermaLink="false">blog/2013/third-post.html</guid>
-      <description>&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
-&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The cool thing here is that the Groovy code been called actually implements a pure Java interface, so we can cross language boundaries using a type safe interface, from a &amp;quot;statically typed&amp;quot; to &amp;quot;optionally dynamically typed&amp;quot;.
+Bellow is the Goovy code as you can see it looks a lot like Java, and you can literally copy a Java class to a Groovy class without changing any code and it will run.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;
-&amp;lt;div class=&amp;quot;ulist&amp;quot;&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;http://example.org&amp;quot; class=&amp;quot;bare&amp;quot;&amp;gt;http://example.org&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;http://example.org&amp;quot;&amp;gt;Example.org&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
+&amp;lt;div class=&amp;quot;imageblock&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;content&amp;quot;&amp;gt;
+&amp;lt;img src=&amp;quot;http://4.bp.blogspot.com/-ZJsALXCuupM/Vi6hlKEFLXI/AAAAAAAAOvo/QTFcOhN_02E/s320/screenshot.80.jpg&amp;quot; alt=&amp;quot;The groovy code&amp;quot;&amp;gt;
+&amp;lt;/div&amp;gt;
 &amp;lt;/div&amp;gt;
 &amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
-&amp;lt;p&amp;gt;Nam id nisl quam. Donec a lorem sit amet libero pretium vulputate vel ut purus. Suspendisse leo arcu,
-mattis et imperdiet luctus, pulvinar vitae mi. Quisque fermentum sollicitudin feugiat. Mauris nec leo
-ligula. Vestibulum tristique odio ut risus ultricies a hendrerit quam iaculis. Duis tempor elit sit amet
-ligula vehicula et iaculis sem placerat. Fusce dictum, metus at volutpat lacinia, elit massa auctor risus,
-id auctor arcu enim eu augue. Donec ultrices turpis in mi imperdiet ac venenatis sapien sodales. In
-consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere
-libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The following is the source directory where you can see that there is both Java and Groovy code.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;imageblock&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;content&amp;quot;&amp;gt;
+&amp;lt;img src=&amp;quot;http://4.bp.blogspot.com/-Dp1HECX_J1Y/Vi6ip67qTMI/AAAAAAAAOvw/R-ti-vGaxL8/s320/screenshot.82.jpg&amp;quot; alt=&amp;quot;The package structure&amp;quot;&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;The following screenshot is a sample Spring Boot application running with Intellj IDE, this sample demonstrates the idea where the RestController is written in Java and call the Groovy code using the GroovyScriptEngine, and from what you can see in the image the debugger in stopped in a breakpoint in the Groovy code.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;imageblock&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;content&amp;quot;&amp;gt;
+&amp;lt;img src=&amp;quot;http://1.bp.blogspot.com/-sAp3AkiJR-U/Vi18iegm_0I/AAAAAAAAOt0/t6ygfAVC9Kw/s320/screenshot.75.jpg&amp;quot; alt=&amp;quot;Running with the debugger&amp;quot;&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect1&amp;quot;&amp;gt;
+&amp;lt;h2 id=&amp;quot;_conclusion&amp;quot;&amp;gt;Conclusion&amp;lt;/h2&amp;gt;
+&amp;lt;div class=&amp;quot;sectionbody&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Now with this setup one can do the quick prototype or fix in the groovy code, test debug and refactor and move the result in the end to java code and break away with lengthy code change cycles!&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_example_solution_code&amp;quot;&amp;gt;Example solution code&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Example code available at my repo:&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://github.com/luistrigueiros/groovy-embedding&amp;quot; class=&amp;quot;bare&amp;quot;&amp;gt;https://github.com/luistrigueiros/groovy-embedding&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;sect2&amp;quot;&amp;gt;
+&amp;lt;h3 id=&amp;quot;_disclaimer&amp;quot;&amp;gt;Disclaimer&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;The opinions expressed where are my own, and subject to change, please provide examples here this is not valid and I will review and amend the text.
+Thank you stay Groovy !&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
 &amp;lt;/div&amp;gt;</description>	  
     </item>
 
