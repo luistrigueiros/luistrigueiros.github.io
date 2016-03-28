@@ -5,8 +5,8 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 28 Mar 2016 00:31:27 +0100</pubDate>
-    <lastBuildDate>Mon, 28 Mar 2016 00:31:27 +0100</lastBuildDate>
+    <pubDate>Mon, 28 Mar 2016 18:57:07 +0100</pubDate>
+    <lastBuildDate>Mon, 28 Mar 2016 18:57:07 +0100</lastBuildDate>
 
     <item>
       <title>Poorman&#39;s solution to quick prototyping and code reloading</title>
